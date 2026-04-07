@@ -1,4 +1,4 @@
-<?php
+ <?php
 $servername = "localhost";
 $username = "root";
 $password = ""; // If MySQL has a password, put it here (e.g., "yourpassword")
